@@ -2,6 +2,7 @@
 **I'm looking for a job as a Trainee / Junior iOS Developer**
 
 ### Мои тестовые проекты:
+- **<a href="https://github.com/romaarc/CatsAPI_MVVM_RxSwift">Кошки на MVVM + RxSwift</a>**
 - **<a href="https://github.com/romaarc/CatsAPI_MVVM">Кошки на MVVM</a>**
 - **<a href="https://github.com/romaarc/TestTaskRickAndMorty">Rick and Morty на VIPER</a>**
 - **<a href="https://github.com/romaarc/Photogram ">Photogram на MVP</a>**

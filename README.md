@@ -1,5 +1,5 @@
 ### Hi 👋 
-**I'm looking for a job as a Trainee / Junior iOS Developer**
+**I'm looking for a job as a iOS Developer**
 
 ### `Мои тестовые проекты` 
 - **<a href="https://github.com/romaarc/TestTaskWaadsu">Тестовое задание от компании WAADSU на Clean Swift</a>**

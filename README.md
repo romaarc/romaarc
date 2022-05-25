@@ -1,7 +1,8 @@
 ### Hi 👋 
 **I'm looking for a job as a iOS Developer**
 
-### `Мои тестовые проекты` 
+### `Мои тестовые проекты`
+- **<a href="https://github.com/romaarc/TestTaskMosgorpass">Тестовое задание от компании Московский транспорт на Clean Swift</a>**
 - **<a href="https://github.com/romaarc/TestTaskWaadsu">Тестовое задание от компании WAADSU на Clean Swift</a>**
 - **<a href="https://github.com/romaarc/TestTaskStoriesAPI">Истории Stepik на Clean Swift</a>**
 - **<a href="https://github.com/romaarc/TestTaskPeshkariki">Тестовое задание от компании Пешкарики (Unsplash) на VIPER</a>**

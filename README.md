@@ -10,7 +10,7 @@
 - **<a href="https://github.com/romaarc/CatsAPI_MVVM_Combine">Кошки на MVVM + Combine</a>**
 - **<a href="https://github.com/romaarc/CatsAPI_MVVM_RxSwift">Кошки на MVVM + RxSwift</a>**
 - **<a href="https://github.com/romaarc/CatsAPI_MVVM">Кошки на MVVM</a>**
-- **<a href="https://github.com/romaarc/Photogram ">Photogram на MVP</a>**
+- **<a href="https://github.com/romaarc/Photogram ">Photogram на MVP + RxSwift</a>**
 - **<a href="https://github.com/romaarc/TestTaskMovies">Фильмы на MVC</a>**
 
 ### `Контакты`

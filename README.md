@@ -21,5 +21,3 @@
 ### `Контакты`
 - telegram: @romaarc
 - romangorshkov@ya.ru
-
-Studying Swift since September 2021

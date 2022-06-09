@@ -1,5 +1,4 @@
 ### Hi 👋 
-**I'm looking for a job as a iOS Developer**
 
 ## `Мои тестовые проекты` 
 ### `Clean Swift`

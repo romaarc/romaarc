@@ -20,3 +20,5 @@
 ### `Контакты`
 - telegram: @romaarc
 - romangorshkov@ya.ru
+
+![](https://komarev.com/ghpvc/?username=romaarc&color=brightgreen&style=plastic)
